@@ -1,4 +1,4 @@
-This is a CMS project made in Vanilla PHP
+This is a CMS project made in Vanilla PHP.
 
 Things that I've learnt during this project: 
 
